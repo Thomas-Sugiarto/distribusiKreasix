@@ -836,12 +836,12 @@ body {
 
 /* Additional Mobile Optimizations */
 @media (max-width: 576px) {
-    /* Improve touch targets */
+   
     .btn, .nav-item, .form-control, .form-select {
         min-height: 44px;
     }
     
-    /* Better spacing for mobile */
+
     .row {
         margin-left: -5px;
         margin-right: -5px;
@@ -852,15 +852,14 @@ body {
         padding-right: 5px;
     }
     
-    /* Mobile-friendly alerts */
+
     .alert {
         border-radius: 0;
         margin-left: -10px;
         margin-right: -10px;
         margin-bottom: 15px;
     }
-    
-    /* Optimize progress bars for mobile */
+
     .progress {
         height: 24px;
         font-size: 11px;
@@ -870,7 +869,7 @@ body {
         line-height: 24px;
     }
     
-    /* Better badge visibility on mobile */
+ 
     .badge {
         font-size: 12px;
         padding: 6px 10px;
